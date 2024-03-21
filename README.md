@@ -13,7 +13,7 @@ A simple replica of Exxen's website homepage. Built using HTML, CSS, and JavaScr
 
 How to Use:
 
-Clone this repository to your computer: git clone https://github.com/YourUsername/Exxen-Frontend.git 
+Clone this repository to your computer: git clone https://github.com/hasankesil/Exxen.git 
 Navigate to the project directory: cd Exxen-Frontend Open the index.html file in a web browser to see the result.
 
 Contributing:
